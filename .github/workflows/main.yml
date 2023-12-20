@@ -17,6 +17,7 @@ jobs:
       - name: Syn js
         run: sh syn.sh
       - name: Commit file
+        run: |
           git config --global user.email dianmianqizi@qq.com
           git config --global user.name dianmianqizi
           git add .
