@@ -167,7 +167,8 @@ https://apps.apple.com/cn/app/id1560313343
 https://apps.apple.com/cn/app/id6444756219
 # > 77 我的物品
 https://apps.apple.com/us/app/id1423132930
-
+# > 78 spektr
+https://apps.apple.com/cn/app/id1496330148
 
 
 [rewrite_local]
@@ -252,7 +253,11 @@ const mapping = {
   'Currency': ['plus'],
   'Echo': ['PLUS'],
   'MyThings': ['pro','xyz.jiaolong.MyThings.pro.infinity'],
-  'Overdue': ['Pro']
+  'Overdue': ['Pro'],
+  'Spektr': ['premium'],
+  'Email%20Me': ['premium'],
+  'Alpenglow': ['newPro'],
+  'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters']
 };
 
 // =========    固定部分  ========= // 
