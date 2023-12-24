@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2023-12-24
+> UpdateTime        2023-12-25
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -175,6 +175,8 @@ https://apps.apple.com/cn/app/id1528417240
 https://apps.apple.com/cn/app/id1585221053
 # > 81 musicmate
 https://apps.apple.com/us/app/id1605379758
+# > 82 事线
+https://apps.apple.com/cn/app/id1662454742
 
 
 [rewrite_local]
@@ -256,13 +258,14 @@ const mapping = {
   'Airmail': ['Airmail Premium'],
   'Stress': ['StressWatch Pro'],
   'PinPaper': ['allaccess'],
-  'Currency': ['plus'],
   'Echo': ['PLUS'],
   'MyThings': ['pro','xyz.jiaolong.MyThings.pro.infinity'],
   'Overdue': ['Pro'],
+  'BlackBox': ['plus','app.filmnoir.appstore.purchases.lifetime'],
   'Spektr': ['premium'],
   'MusicMate': ['premium','mm_lifetime_68_premium'],
-  'BlackBox': ['plus','app.filmnoir.appstore.purchases.lifetime'],
+  '%E4%BA%8B%E7%BA%BF': ['pro','xyz.jiaolong.eventline.pro.lifetime'],
+  'Currency': ['plus'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
   'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters']
