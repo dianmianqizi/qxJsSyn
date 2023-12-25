@@ -177,6 +177,10 @@ https://apps.apple.com/cn/app/id1585221053
 https://apps.apple.com/us/app/id1605379758
 # > 82 事线
 https://apps.apple.com/cn/app/id1662454742
+# > 83 小鱼短信
+https://apps.apple.com/cn/app/id1515035333
+# > 84 Tasks
+https://apps.apple.com/cn/app/id1502903102
 
 
 [rewrite_local]
@@ -265,6 +269,7 @@ const mapping = {
   'Spektr': ['premium'],
   'MusicMate': ['premium','mm_lifetime_68_premium'],
   '%E4%BA%8B%E7%BA%BF': ['pro','xyz.jiaolong.eventline.pro.lifetime'],
+  'Tasks': ['Pro'],
   'Currency': ['plus'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
