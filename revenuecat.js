@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2023-12-29
+> UpdateTime        2023-12-30
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -187,6 +187,8 @@ https://apps.apple.com/us/app/id284220417
 https://apps.apple.com/cn/app/id1542670372
 # > 87 小熊记账
 https://apps.apple.com/us/app/id6448206280
+# > 88 小熊轻断食
+https://apps.apple.com/cn/app/id1624214488
 
 
 [rewrite_local]
@@ -278,6 +280,7 @@ const mapping = {
   'Tasks': ['Pro'],
   'Currency': ['plus'],
   'money_manager': ['premium'],
+  'fastdiet': ['premium'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'Blurer': ['paid_access'],
   'Email%20Me': ['premium'],
