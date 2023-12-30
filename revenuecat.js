@@ -189,6 +189,8 @@ https://apps.apple.com/cn/app/id1542670372
 https://apps.apple.com/us/app/id6448206280
 # > 88 小熊轻断食
 https://apps.apple.com/cn/app/id1624214488
+# > 89 Everlog
+https://apps.apple.com/cn/app/id1519935634
 
 
 [rewrite_local]
@@ -281,8 +283,9 @@ const mapping = {
   'Currency': ['plus'],
   'money_manager': ['premium'],
   'fastdiet': ['premium'],
-  'G%20E%20I%20S%20T': ['memorado_premium'],
   'Blurer': ['paid_access'],
+  'Everlog': ['premium'],
+  'G%20E%20I%20S%20T': ['memorado_premium'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
   'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters']
