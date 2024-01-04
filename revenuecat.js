@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-04
+> UpdateTime        2024-01-05
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -199,6 +199,8 @@ https://apps.apple.com/us/app/id1662413517
 https://apps.apple.com/us/app/id1487921214
 # > 93 FaceGlow
 https://apps.apple.com/us/app/id6466787206
+# > 94 noverdue
+https://apps.apple.com/us/app/id1492210816
 
 
 [rewrite_local]
@@ -295,6 +297,7 @@ const mapping = {
   'Everlog': ['premium'],
   'reader': ['vip2','com.valo.reader.vip2.year'],
   'GetFace': ['Pro access'],
+  'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
