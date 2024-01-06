@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-05
+> UpdateTime        2024-01-06
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -201,6 +201,12 @@ https://apps.apple.com/us/app/id1487921214
 https://apps.apple.com/us/app/id6466787206
 # > 94 noverdue
 https://apps.apple.com/us/app/id1492210816
+# > 95 dtdsounds
+https://apps.apple.com/us/app/id1669507883
+# > 96 dtdplaylist
+https://apps.apple.com/us/app/id1631654360
+# > 97 诗片
+https://apps.apple.com/cn/app/id1672208469
 
 
 [rewrite_local]
@@ -297,6 +303,9 @@ const mapping = {
   'Everlog': ['premium'],
   'reader': ['vip2','com.valo.reader.vip2.year'],
   'GetFace': ['Pro access'],
+  'Period%20Calendar': ['Premium','com.lbrc.PeriodCalendar.premium.yearly'],
+  'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
+  'MOZE': ['premium'],
   'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'Email%20Me': ['premium'],
