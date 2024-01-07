@@ -7,206 +7,212 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-06
+> UpdateTime        2024-01-07
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
 
 # ========解锁列表======== #
-# > 01 白云天气
+# > 001 白云天气
 https://apps.apple.com/cn/app/id1575901953
-# > 02 1Blocker
+# > 002 1Blocker
 https://apps.apple.com/cn/app/id1365531024
-# > 03 Aphrodite
+# > 003 Aphrodite*
 https://apps.apple.com/cn/app/id1568289454
-# > 04 Apollo
+# > 004 Apollo
 https://apps.apple.com/cn/app/id1616467801
-# > 05 pandora
+# > 005 pandora
 https://apps.apple.com/cn/app/id1470560916
-# > 06 widgetart
+# > 006 widgetart
 https://apps.apple.com/cn/app/id1539097448
-# > 07 Spark
+# > 007 Spark
 https://apps.apple.com/cn/app/id997102246
-# > 08 Pillow
+# > 008 Pillow
 https://apps.apple.com/cn/app/id878691772
-# > 09 图图记账
+# > 009 图图记账*
 https://apps.apple.com/cn/app/id1546356856
-# > 10 VSCO
+# > 010 VSCO
 https://apps.apple.com/cn/app/id588013838
-# > 11 谜底时钟
+# > 011 谜底时钟
 https://apps.apple.com/cn/app/id1536358464
-# > 12 谜底黑胶
+# > 012 谜底黑胶
 https://apps.apple.com/cn/app/id1606306441
-# > 13 OffScreen
+# > 013 OffScreen
 https://apps.apple.com/cn/app/id1474340105
-# > 14 花样文字
+# > 014 花样文字
 https://apps.apple.com/cn/app/id1438854446
-# > 15 ScannerPro
+# > 015 ScannerPro
 https://apps.apple.com/cn/app/id333710667
-# > 16 车票票
+# > 016 车票票*
 https://apps.apple.com/cn/app/id6446212291
-# > 17 HTTPBot
+# > 017 HTTPBot
 https://apps.apple.com/us/app/id1232603544
-# > 18 Audiomack
+# > 018 Audiomack
 https://apps.apple.com/cn/app/id921765888
-# > 19 ServerBee
+# > 019 ServerBee
 https://apps.apple.com/cn/app/id6443553714
-# > 20 NotBoring天气
+# > 020 NotBoring天气
 https://apps.apple.com/cn/app/id1531063436
-# > 21 NotBoring习惯
+# > 021 NotBoring习惯
 https://apps.apple.com/cn/app/id1593891243
-# > 22 NotBoring计算器
+# > 022 NotBoring计算器
 https://apps.apple.com/cn/app/id1533591596
-# > 23 NotBoring计时器
+# > 023 NotBoring计时器
 https://apps.apple.com/cn/app/id1531048091
-# > 24 NotBoringVibes
+# > 024 NotBoringVibes
 https://apps.apple.com/cn/app/id1661440185
-# > 25 倒数鸭
+# > 025 倒数鸭
 https://apps.apple.com/cn/app/id6457201223
-# > 26 iptv-ultra
+# > 026 iptv-ultra
 https://apps.apple.com/cn/app/id1549657742
-# > 27 happy-days
+# > 027 happy-days
 https://apps.apple.com/cn/app/id1564858029
-# > 28 chatai[非国区旧版V3.6]
+# > 028 chatai*[非国区旧版V3.6]
 https://apps.apple.com/us/app/id1661016696
-# > 29 aptv[旧版V1.25]
+# > 029 aptv*[旧版V1.25]
 https://apps.apple.com/us/app/id1630403500
-# > 30 TouchRetouch
+# > 030 TouchRetouch
 https://apps.apple.com/cn/app/id373311252
-# > 31 方弗相机
+# > 031 方弗相机
 https://apps.apple.com/cn/app/id1621425556
-# > 32 Myjumplab
+# > 032 Myjumplab
 https://apps.apple.com/us/app/id1554077178
-# > 33 目标地图
+# > 033 目标地图
 https://apps.apple.com/cn/app/id1555022550
-# > 34 Paku
+# > 034 Paku
 https://apps.apple.com/cn/app/id1534130193
-# > 35 AwesomeHabits
+# > 035 AwesomeHabits
 https://apps.apple.com/cn/app/id1514915737
-# > 36 Gear
+# > 036 Gear
 https://apps.apple.com/cn/app/id1458962238
-# > 37 MoneyThings
+# > 037 MoneyThings
 https://apps.apple.com/cn/app/id1549694221
-# > 38 Anybox
+# > 038 Anybox
 https://apps.apple.com/us/app/id1593408455
-# > 39 noto
+# > 039 noto
 https://apps.apple.com/us/app/id1459055246
-# > 40 Widgetsmith
+# > 040 Widgetsmith
 https://apps.apple.com/cn/app/id1523682319
-# > 41 Percento
+# > 041 Percento
 https://apps.apple.com/cn/app/id1494319934
-# > 42 Planny
+# > 042 Planny
 https://apps.apple.com/cn/app/id1515324201
-# > 43 loopsie
+# > 043 loopsie
 https://apps.apple.com/us/app/id1259909228
-# > 44 手机硬件管家
+# > 044 手机硬件管家
 https://apps.apple.com/cn/app/id1329937809
-# > 45 ImageX
+# > 045 ImageX
 https://apps.apple.com/us/app/id1668530080
-# > 46 我的时间
+# > 046 我的时间
 https://apps.apple.com/cn/app/id1481796842
-# > 47 Fin
+# > 047 Fin
 https://apps.apple.com/cn/app/id1489698531
-# > 48 星垂日记
+# > 048 星垂日记
 https://apps.apple.com/cn/app/id1663588935
-# > 49 星垂专注
+# > 049 星垂专注
 https://apps.apple.com/cn/app/id6446450915
-# > 50 Locket
+# > 050 Locket
 https://apps.apple.com/cn/app/id1600525061
-# > 51 one4wall
+# > 051 one4wall
 https://apps.apple.com/us/app/id6446678464
-# > 52 mizframa
+# > 052 mizframa
 https://apps.apple.com/cn/app/id6444951894
-# > 53 极简时钟
+# > 053 极简时钟
 https://apps.apple.com/cn/app/id1265404088
-# > 54 极简日记
+# > 054 极简日记
 https://apps.apple.com/cn/app/id1568936702
-# > 55 治愈时钟
+# > 055 治愈时钟
 https://apps.apple.com/cn/app/id1599856748
-# > 56 photomator
+# > 056 photomator
 https://apps.apple.com/cn/app/id1444636541
-# > 57 奇妙组件
+# > 057 奇妙组件
 https://apps.apple.com/cn/app/id1466785009
-# > 58 structured
+# > 058 structured
 https://apps.apple.com/cn/app/id1499198946
-# > 59 卡片馆
+# > 059 卡片馆
 https://apps.apple.com/cn/app/id1441120440
-# > 60 ColorWidgets
+# > 060 ColorWidgets
 https://apps.apple.com/cn/app/id1531594277
-# > 61 pdfviewer
+# > 061 pdfviewer
 https://apps.apple.com/cn/app/id1120099014
-# > 62 vision
+# > 062 vision
 https://apps.apple.com/us/app/id1572457968
-# > 63 photoroom
+# > 063 photoroom
 https://apps.apple.com/us/app/id1455009060
-# > 64 pure记账
+# > 064 pure记账
 https://apps.apple.com/cn/app/id6447791661
-# > 65 clica
+# > 065 clica
 https://apps.apple.com/us/app/id1571012264
-# > 66 usage
+# > 066 usage
 https://apps.apple.com/us/app/id970353453
-# > 67 TimeFinder
+# > 067 TimeFinder
 https://apps.apple.com/cn/app/id1347447233
-# > 68 Brass
+# > 068 Brass
 https://apps.apple.com/cn/app/id1533158013
-# > 69 ElementNote
+# > 069 ElementNote
 https://apps.apple.com/cn/app/id6444015673
-# > 70 小决定
+# > 070 小决定
 https://apps.apple.com/cn/app/id1338769645
-# > 71 Tangerine
+# > 071 Tangerine
 https://apps.apple.com/cn/app/id1468882685
-# > 72 pastepal
+# > 072 pastepal
 https://apps.apple.com/us/app/id1503446680
-# > 73 Airmail
+# > 073 Airmail
 https://apps.apple.com/cn/app/id993160329
-# > 74 stresswatch
+# > 074 stresswatch
 https://apps.apple.com/us/app/id6444737095
-# > 75 IN paper
+# > 075 IN paper
 https://apps.apple.com/cn/app/id1560313343
-# > 76 LemoFM
+# > 076 LemoFM
 https://apps.apple.com/cn/app/id6444756219
-# > 77 我的物品
+# > 077 我的物品
 https://apps.apple.com/us/app/id1423132930
-# > 78 spektr
+# > 078 spektr
 https://apps.apple.com/cn/app/id1496330148
-# > 79 filmnoir
+# > 079 filmnoir
 https://apps.apple.com/cn/app/id1528417240
-# > 80 物品指南
+# > 080 物品指南
 https://apps.apple.com/cn/app/id1585221053
-# > 81 musicmate
+# > 081 musicmate
 https://apps.apple.com/us/app/id1605379758
-# > 82 事线
+# > 082 事线
 https://apps.apple.com/cn/app/id1662454742
-# > 83 小鱼短信
+# > 083 小鱼短信
 https://apps.apple.com/cn/app/id1515035333
-# > 84 Tasks
+# > 084 Tasks
 https://apps.apple.com/cn/app/id1502903102
-# > 85 currency
+# > 085 currency
 https://apps.apple.com/us/app/id284220417
-# > 86 Pixelify
+# > 086 Pixelify
 https://apps.apple.com/cn/app/id1542670372
-# > 87 小熊记账
+# > 087 小熊记账
 https://apps.apple.com/us/app/id6448206280
-# > 88 小熊轻断食
+# > 088 小熊轻断食
 https://apps.apple.com/cn/app/id1624214488
-# > 89 Everlog
+# > 089 Everlog
 https://apps.apple.com/cn/app/id1519935634
-# > 90 达成21
+# > 090 达成21
 https://apps.apple.com/cn/app/id1568910664
-# > 91 读不舍手
+# > 091 读不舍手
 https://apps.apple.com/us/app/id1662413517
-# > 92 crystaliq
+# > 092 crystaliq
 https://apps.apple.com/us/app/id1487921214
-# > 93 FaceGlow
+# > 093 FaceGlow
 https://apps.apple.com/us/app/id6466787206
-# > 94 noverdue
+# > 094 noverdue
 https://apps.apple.com/us/app/id1492210816
-# > 95 dtdsounds
+# > 095 dtdsounds
 https://apps.apple.com/us/app/id1669507883
-# > 96 dtdplaylist
+# > 096 dtdplaylist
 https://apps.apple.com/us/app/id1631654360
-# > 97 诗片
+# > 097 诗片
 https://apps.apple.com/cn/app/id1672208469
+# > 098 IntervalFlow
+https://apps.apple.com/cn/app/id6444124987
+# > 099 Routineflow
+https://apps.apple.com/cn/app/id1639800794
+# > 100 经期助手
+https://apps.apple.com/cn/app/id1032267351
 
 
 [rewrite_local]
@@ -303,6 +309,7 @@ const mapping = {
   'Everlog': ['premium'],
   'reader': ['vip2','com.valo.reader.vip2.year'],
   'GetFace': ['Pro access'],
+  'intervalFlow': ['All Access','wodtimer_lf_free'],
   'Period%20Calendar': ['Premium','com.lbrc.PeriodCalendar.premium.yearly'],
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
