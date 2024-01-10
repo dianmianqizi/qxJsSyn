@@ -217,6 +217,8 @@ https://apps.apple.com/cn/app/id1032267351
 https://apps.apple.com/cn/app/id1559943673
 # > 102 DarkNoise
 https://apps.apple.com/cn/app/id1465439395
+# > 103 计算器AI
+https://apps.apple.com/cn/app/id6462117466
 
 
 [rewrite_local]
