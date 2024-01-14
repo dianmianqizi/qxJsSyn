@@ -223,6 +223,8 @@ https://apps.apple.com/cn/app/id6462117466
 https://apps.apple.com/us/app/id1605113008
 # > 105 Moze
 https://apps.apple.com/cn/app/id1460011387
+# > 106 AlcoholTracker
+https://apps.apple.com/cn/app/id6448653224
 
 
 [rewrite_local]
@@ -324,6 +326,7 @@ const mapping = {
   'Cookie': ['allaccess','app.ft.Bookkeeping.lifetime'],
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
+  'alcohol.tracker': ['pro','drinklog_lifetime'],
   'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'Email%20Me': ['premium'],
