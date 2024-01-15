@@ -227,6 +227,11 @@ https://apps.apple.com/cn/app/id1460011387
 https://apps.apple.com/cn/app/id6448653224
 # > 107 pycopaste
 https://apps.apple.com/us/app/id1635345871
+# > 108 Lilbite
+https://apps.apple.com/cn/app/id1581072935
+# > 109 Anymoney
+https://apps.apple.com/cn/app/id1310569778
+
 
 
 [rewrite_local]
@@ -328,6 +333,7 @@ const mapping = {
   'Cookie': ['allaccess','app.ft.Bookkeeping.lifetime'],
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
+  'FinancialNote': ['category'],
   'alcohol.tracker': ['pro','drinklog_lifetime'],
   'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
