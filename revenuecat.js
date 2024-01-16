@@ -231,6 +231,8 @@ https://apps.apple.com/us/app/id1635345871
 https://apps.apple.com/cn/app/id1581072935
 # > 109 Anymoney
 https://apps.apple.com/cn/app/id1310569778
+# > 110 yawn
+https://apps.apple.com/cn/app/id6473270731
 
 
 
@@ -252,6 +254,7 @@ hostname=api.revenuecat.com
 // ========= 动态ID ========= //
 const mapping = {
   '%E8%BD%A6%E7%A5%A8%E7%A5%A8': ['vip+watch_vip'],
+  'FinancialNote': ['category'],
   'LUTCamera': ['ProVersion', 'com.uzero.funforcam.monthlysub'],
   'totowallet': ['all', 'com.ziheng.totowallet.yearly'],
   'Aphrodite': ['all'],
@@ -333,7 +336,6 @@ const mapping = {
   'Cookie': ['allaccess','app.ft.Bookkeeping.lifetime'],
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
-  'FinancialNote': ['category'],
   'alcohol.tracker': ['pro','drinklog_lifetime'],
   'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
