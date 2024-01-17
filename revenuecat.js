@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-16
+> UpdateTime        2024-01-18
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -233,6 +233,8 @@ https://apps.apple.com/cn/app/id1581072935
 https://apps.apple.com/cn/app/id1310569778
 # > 110 yawn
 https://apps.apple.com/cn/app/id6473270731
+# > 111 nasctl
+https://apps.apple.com/cn/app/id1662428698
 
 
 
@@ -337,6 +339,7 @@ const mapping = {
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
   'alcohol.tracker': ['pro','drinklog_lifetime'],
+  'DayPoem': ['Pro Lifetime'],
   'Focused%20Work': ['Pro'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'Email%20Me': ['premium'],
