@@ -235,7 +235,10 @@ https://apps.apple.com/cn/app/id1310569778
 https://apps.apple.com/cn/app/id6473270731
 # > 111 nasctl
 https://apps.apple.com/cn/app/id1662428698
-
+# > 112 neurolist
+https://apps.apple.com/us/app/id6468689182
+# > 113 西江诗词
+https://apps.apple.com/us/app/id1084924739
 
 
 [rewrite_local]
