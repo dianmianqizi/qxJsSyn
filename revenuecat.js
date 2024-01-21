@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-20
+> UpdateTime        2024-01-22
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -241,6 +241,10 @@ https://apps.apple.com/us/app/id6468689182
 https://apps.apple.com/us/app/id1084924739
 # > 114 geist
 https://apps.apple.com/cn/app/id897062509
+# > 115 Budgetflow
+https://apps.apple.com/us/app/id1640091876
+# > 116 Habitdone
+https://apps.apple.com/us/app/id6475660703
 
 
 [rewrite_local]
@@ -345,8 +349,10 @@ const mapping = {
   'MOZE': ['premium'],
   'alcohol.tracker': ['pro','drinklog_lifetime'],
   'DayPoem': ['Pro Lifetime'],
-  'Focused%20Work': ['Pro'],
+  'Budget%20Flow': ['full_access','com.fabian.hasse.haushaltsbuch.upgrade.combined'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
+  'tiimo': ['full_access'],
+  'Focused%20Work': ['Pro'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
   'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters']
