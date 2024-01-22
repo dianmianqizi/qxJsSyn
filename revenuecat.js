@@ -245,6 +245,8 @@ https://apps.apple.com/cn/app/id897062509
 https://apps.apple.com/us/app/id1640091876
 # > 116 Habitdone
 https://apps.apple.com/us/app/id6475660703
+# > 117 Weatherkit
+https://apps.apple.com/us/app/id1076414499
 
 
 [rewrite_local]
@@ -351,6 +353,7 @@ const mapping = {
   'DayPoem': ['Pro Lifetime'],
   'Budget%20Flow': ['full_access','com.fabian.hasse.haushaltsbuch.upgrade.combined'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
+  'multitimer_app': ['premium','timus_lt'],
   'tiimo': ['full_access'],
   'Focused%20Work': ['Pro'],
   'Email%20Me': ['premium'],
