@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 ddgksf2013@163.com 📮
-> UpdateTime        2024-01-27
+> UpdateTime        2024-01-28
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
@@ -255,6 +255,8 @@ https://apps.apple.com/us/app/id1476436116
 https://apps.apple.com/cn/app/id1548277133
 # > 121 darkroom
 https://apps.apple.com/cn/app/id953286746
+# > 122 stoic
+https://apps.apple.com/cn/app//id1312926037
 
 
 [rewrite_local]
@@ -362,11 +364,19 @@ const mapping = {
   'Budget%20Flow': ['full_access','com.fabian.hasse.haushaltsbuch.upgrade.combined'],
   'G%20E%20I%20S%20T': ['memorado_premium'],
   'multitimer_app': ['premium','timus_lt'],
+  'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters'],
   'tiimo': ['full_access'],
   'Focused%20Work': ['Pro'],
+  'GoToSleep': ['Pro'],
+  'Ochi': ['Pro'],
+  'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'Email%20Me': ['premium'],
   'Alpenglow': ['newPro'],
-  'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters']
+  'MetadataEditor': ['unlimited_access'],
+  '%E6%9F%A5%E5%A6%86%E5%A6%86': ['Pro access'],
+  '%E5%85%83%E6%B0%94%E8%AE%A1%E6%97%B6': ['plus'],
+  'WidgetCat': ['MiaoWidgetPro'],
+  'Wozi': ['wozi_pro_2023']
 };
 
 // =========    固定部分  ========= // 
