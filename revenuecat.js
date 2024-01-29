@@ -368,6 +368,7 @@ const mapping = {
   'tiimo': ['full_access'],
   'Focused%20Work': ['Pro'],
   'GoToSleep': ['Pro'],
+  'kegel': ['kegel_pro'],
   'Ochi': ['Pro'],
   'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'Email%20Me': ['premium'],
