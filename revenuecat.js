@@ -1,16 +1,18 @@
 /***********************************
 
-> ScriptName        RevenueCat多合一脚本[墨鱼版]
+> ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭多合一脚本[墨鱼版]
 > Author            @ddgksf2013
 > ForHelp           若有屏蔽广告的需求，可公众号后台回复APP名称
 > WechatID          墨鱼手记
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
-> Feedback          📮 ddgksf2013@163.com 📮
+> Feedback          📮 𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 📮
 > UpdateTime        2024-01-30
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
+> Attention         📣个别失效APP已作*标注，请相关需求者自行降级、或寻找替代品、或购买支持
 > Attention         如需引用请注明出处，谢谢合作！
 > ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+
 
 # ========解锁列表======== #
 # > 001 白云天气
@@ -259,6 +261,8 @@ https://apps.apple.com/cn/app/id953286746
 https://apps.apple.com/cn/app//id1312926037
 # > 123 mojo
 https://apps.apple.com/cn/app/id1434861974
+# > 124 金多多计算器
+https://apps.apple.com/cn/app/id6446802882
 
 
 [rewrite_local]
@@ -368,6 +372,7 @@ const mapping = {
   'multitimer_app': ['premium','timus_lt'],
   'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters'],
   'tiimo': ['full_access'],
+  'jinduoduo_calculator': ['jinduoduoapp','mobile_vip'],
   'Focused%20Work': ['Pro'],
   'GoToSleep': ['Pro'],
   'kegel': ['kegel_pro'],
