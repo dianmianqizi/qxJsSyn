@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 📮
-> UpdateTime        2024-01-30
+> UpdateTime        2024-02-02
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         📣个别失效APP已作*标注，请相关需求者自行降级、或寻找替代品、或购买支持
 > Attention         如需引用请注明出处，谢谢合作！
@@ -263,6 +263,10 @@ https://apps.apple.com/cn/app//id1312926037
 https://apps.apple.com/cn/app/id1434861974
 # > 124 金多多计算器
 https://apps.apple.com/cn/app/id6446802882
+# > 125 voicememos
+https://apps.apple.com/cn/app//id1090744587
+# > 126 Tiimo
+https://apps.apple.com/cn/app/id1480220328
 
 
 [rewrite_local]
@@ -379,6 +383,7 @@ const mapping = {
   'Ochi': ['Pro'],
   'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'Email%20Me': ['premium'],
+  'com.dison.diary': ['vip'],
   'Alpenglow': ['newPro'],
   'MetadataEditor': ['unlimited_access'],
   '%E6%9F%A5%E5%A6%86%E5%A6%86': ['Pro access'],
