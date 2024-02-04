@@ -135,6 +135,7 @@ const mapping = {
   'com.dison.diary': ['vip'],
   'iRead': ['vip'],
   'jizhi': ['jizhi_vip'],
+  'card/': ['vip'],
   'Alpenglow': ['newPro'],
   'MetadataEditor': ['unlimited_access'],
   '%E6%9F%A5%E5%A6%86%E5%A6%86': ['Pro access'],
