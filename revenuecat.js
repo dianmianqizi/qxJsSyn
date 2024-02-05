@@ -124,6 +124,8 @@ const mapping = {
   'multitimer_app': ['premium','timus_lt'],
   'Darkroom': ['co.bergen.Darkroom.entitlement.allToolsAndFilters'],
   'tiimo': ['full_access'],
+  'FaceMa/': ['Pro access'],
+  'Record2Text/': ['Pro access'],
   'jinduoduo_calculator': ['jinduoduoapp','mobile_vip'],
   'Focused%20Work': ['Pro'],
   'GoToSleep': ['Pro'],
