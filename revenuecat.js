@@ -133,6 +133,7 @@ const mapping = {
   'Ochi': ['Pro'],
   'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'Email%20Me': ['premium'],
+  'GoodThing/': ['pro','goodhappens_basic_year'],
   'Reels%20Editor': ['Unlimited Access'],
   'com.dison.diary': ['vip'],
   'iRead': ['vip'],
