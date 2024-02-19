@@ -145,6 +145,7 @@ const mapping = {
   '%E6%9F%A5%E5%A6%86%E5%A6%86': ['Pro access'],
   '%E5%85%83%E6%B0%94%E8%AE%A1%E6%97%B6': ['plus'],
   'WidgetCat': ['MiaoWidgetPro'],
+  'NeatNook/': ['com.neatnook.pro','com.neatnook.pro.forever'],
   'Wozi': ['wozi_pro_2023']
 };
 
