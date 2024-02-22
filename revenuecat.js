@@ -36,6 +36,7 @@ hostname=api.revenuecat.com
 const mapping = {
   '%E8%BD%A6%E7%A5%A8%E7%A5%A8': ['vip+watch_vip'],
   'FinancialNote': ['category'],
+  'Precious/': ['Pro'],
   'LUTCamera': ['ProVersion', 'com.uzero.funforcam.monthlysub'],
   'totowallet': ['all', 'com.ziheng.totowallet.yearly'],
   'Aphrodite': ['all'],
@@ -132,6 +133,7 @@ const mapping = {
   'kegel': ['kegel_pro'],
   'Ochi': ['Pro'],
   'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
+  'ShellBean/': ['pro','com.ningle.shellbean.subscription.year'],
   'Email%20Me': ['premium'],
   'GoodThing/': ['pro','goodhappens_basic_year'],
   'Reels%20Editor': ['Unlimited Access'],
@@ -146,6 +148,7 @@ const mapping = {
   '%E5%85%83%E6%B0%94%E8%AE%A1%E6%97%B6': ['plus'],
   'WidgetCat': ['MiaoWidgetPro'],
   'NeatNook/': ['com.neatnook.pro','com.neatnook.pro.forever'],
+  'Dedupe/': ['Pro','com.curiouscreatorsco.Dedupe.pro.lifetime.notrial.39_99'],
   'Wozi': ['wozi_pro_2023']
 };
 
