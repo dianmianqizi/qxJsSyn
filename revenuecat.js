@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 📮
-> UpdateTime        2024-02-02
+> UpdateTime        2024-02-25
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         📣个别失效的APP请相关需求者自行降级、或寻找替代品、或购买支持
 > Attention         如需引用请注明出处，谢谢合作！
@@ -136,6 +136,7 @@ const mapping = {
   'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'universal/': ['Premium','remotetv.yearly.07'],
   'ShellBean/': ['pro','com.ningle.shellbean.subscription.year'],
+  'AI%20Art%20Generator/': ['Unlimited Access'],
   'Email%20Me': ['premium'],
   'GoodThing/': ['pro','goodhappens_basic_year'],
   'Reels%20Editor': ['Unlimited Access'],
@@ -149,6 +150,8 @@ const mapping = {
   '%E6%9F%A5%E5%A6%86%E5%A6%86': ['Pro access'],
   '%E5%85%83%E6%B0%94%E8%AE%A1%E6%97%B6': ['plus'],
   'WidgetCat': ['MiaoWidgetPro'],
+  'Emphasis/': ['premium'],
+  'streamer/': ['Premium'],
   'NeatNook/': ['com.neatnook.pro','com.neatnook.pro.forever'],
   'Dedupe/': ['Pro','com.curiouscreatorsco.Dedupe.pro.lifetime.notrial.39_99'],
   'Wozi': ['wozi_pro_2023']
