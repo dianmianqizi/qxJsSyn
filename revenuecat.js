@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 📮
-> UpdateTime        2024-02-25
+> UpdateTime        2024-02-27
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         📣个别失效的APP请相关需求者自行降级、或寻找替代品、或购买支持
 > Attention         如需引用请注明出处，谢谢合作！
@@ -153,6 +153,8 @@ const mapping = {
   'Emphasis/': ['premium'],
   'streamer/': ['Premium'],
   'NeatNook/': ['com.neatnook.pro','com.neatnook.pro.forever'],
+  'Blackout/': ['premium','blackout_299_lt'],
+  'Budgetify/': ['premium','budgetify_3999_lt'],
   'Dedupe/': ['Pro','com.curiouscreatorsco.Dedupe.pro.lifetime.notrial.39_99'],
   'Wozi': ['wozi_pro_2023']
 };
