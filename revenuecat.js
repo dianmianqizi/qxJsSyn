@@ -151,6 +151,7 @@ const mapping = {
   '%E5%85%83%E6%B0%94%E8%AE%A1%E6%97%B6': ['plus'],
   'WidgetCat': ['MiaoWidgetPro'],
   'Emphasis/': ['premium'],
+  'FormScanner/': ['Pro','formscanner_lifetime'],
   'streamer/': ['Premium'],
   'NeatNook/': ['com.neatnook.pro','com.neatnook.pro.forever'],
   'Blackout/': ['premium','blackout_299_lt'],
