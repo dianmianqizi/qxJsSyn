@@ -7,7 +7,7 @@
 > TgChannel         https://t.me/ddgksf2021
 > Contribute        https://t.me/ddgksf2013_bot
 > Feedback          📮 𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 📮
-> UpdateTime        2024-02-27
+> UpdateTime        2024-02-12
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         📣个别失效的APP请相关需求者自行降级、或寻找替代品、或购买支持
 > Attention         如需引用请注明出处，谢谢合作！
@@ -119,6 +119,9 @@ const mapping = {
   'Cookie': ['allaccess','app.ft.Bookkeeping.lifetime'],
   'ScientificCalculator': ['premium','com.simpleinnovation.calculator.ai.premium.yearly.base'],
   'MOZE': ['premium'],
+  'LemonKeepAccounts/': ['vip'],
+  'To%20Me/': ['Premium'],
+  '%E8%A8%80%E5%A4%96%E7%AD%86%E8%A8%98/': ['Premium'],
   'alcohol.tracker': ['pro','drinklog_lifetime'],
   'DayPoem': ['Pro Lifetime'],
   'Budget%20Flow': ['full_access','com.fabian.hasse.haushaltsbuch.upgrade.combined'],
