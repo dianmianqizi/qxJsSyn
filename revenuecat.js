@@ -63,6 +63,7 @@ const mapping = {
   'CountDuck': ['premium', 'Lifetime'],
   'IPTVUltra': ['premium'],
   'Happy%3ADays': ['pro', 'happy_999_lifetime'],
+  'PDF_convertor/': ['VIP', 'com.pdf.convertor.forever'],
   'ChatGPTApp': ['Advanced'],
   'APTV': ['pro'],
   'TouchRetouchBasic': ['premium'],
