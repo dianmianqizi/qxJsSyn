@@ -85,6 +85,7 @@ const mapping = {
   'My%20Tim': ['Pro'],
   'Photom': ['premium', 'pixelmator_photo_pro_subscription_v1_pro_offer'],
   'mizframa': ['premium', 'mf_20_lifetime2'],
+  'YzyFit/': ['pro', 'yzyfit_lft_v2'],
   'ImageX': ['imagex.pro.ios', 'imagex.pro.ios.lifetime'],
   'Fin': ['premium', 'com.circles.fin.premium.yearly'],
   'Ledger': ['Pro', 'com.lifetime.pro'],
