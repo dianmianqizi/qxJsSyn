@@ -37,6 +37,8 @@ const mapping = {
   '%E8%BD%A6%E7%A5%A8%E7%A5%A8': ['vip+watch_vip'],
   'FinancialNote': ['category'],
   'Precious/': ['Pro'],
+  'FoJiCam/': ['ProVersionLifeTime'],
+  'pdfai_app/': ['premium'],
   'LUTCamera': ['ProVersion', 'com.uzero.funforcam.monthlysub'],
   'totowallet': ['all', 'com.ziheng.totowallet.yearly'],
   'Aphrodite': ['all'],
