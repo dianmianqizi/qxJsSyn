@@ -36,6 +36,8 @@ hostname=api.revenuecat.com
 const mapping = {
   '%E8%BD%A6%E7%A5%A8%E7%A5%A8': ['vip+watch_vip'],
   'FinancialNote': ['category'],
+  'QingLong': ['Premium'],
+  'ScreenRecordCase/': ['Premium'],
   'Currency-Converter/': ['pro'],
   'Precious/': ['Pro'],
   'Unfold/': ['PRO'],
