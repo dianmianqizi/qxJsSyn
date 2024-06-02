@@ -39,6 +39,8 @@ const mapping = {
   'QingLong': ['Premium'],
   'CircleTime/': ['Premium'],
   'ScreenRecordCase/': ['Premium'],
+  'Chronicling/': ['Premium'],
+  'Yosum/': ['Premium'],
   'Currency-Converter/': ['pro'],
   'Precious/': ['Pro'],
   'Unfold/': ['PRO'],
