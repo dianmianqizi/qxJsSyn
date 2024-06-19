@@ -61,6 +61,7 @@ const mapping = {
   'apollo': ['all'],
   'widget_art': ['all'],
   'OneBox': ['all'],
+  'Taskbit/': ['Pro'],
   'Spark': ['premium'],
   'Pillow': ['premium'],
   '1Blocker': ['premium'],
