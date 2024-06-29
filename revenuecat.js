@@ -71,6 +71,8 @@ const mapping = {
   '%E8%AC%8E%E5%BA%95%E6%99%82%E9%90%98': ['Entitlement.Pro'],
   'OffScreen': ['Entitlement.Pro'],
   'ScannerPro': ['plus'],
+  'Duplete/': ['Pro'],
+  'Ooga/': ['Ooga'],
   'WhiteCloud': ['allaccess'],
   'HTTPBot': ['pro'],
   'audiomack': ['Premium1'],
