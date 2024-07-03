@@ -59,6 +59,7 @@ const mapping = {
   '%E7%BE%8E%E5%A6%86%E6%97%A5%E5%8E%86': ['Pro access'],
   'Aula/': ['Pro access'],
   'apollo': ['all'],
+  'iplayTV/': ['com.ll.btplayer.12'],
   'widget_art': ['all'],
   'OneBox': ['all'],
   'Taskbit/': ['Pro'],
