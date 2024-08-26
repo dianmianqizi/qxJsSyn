@@ -45,6 +45,7 @@ const mapping = {
   'Precious/': ['Pro'],
   'Unfold/': ['PRO'],
   'mark_cup/': ['premiun'],
+  'Photomator': ['pixelmator_photo_pro_access'],
   'StepUp/': ['premiun'],
   'SleepMaster/': ['premium','sm_14999_lifetime'],
   'Grain/': ['gold','lifetimeMembership'],
